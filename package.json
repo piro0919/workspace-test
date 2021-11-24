@@ -2,6 +2,7 @@
   "name": "workspace-test",
   "private": true,
   "workspaces": [
-    "packages/hoge"
+    "packages/hoge",
+    "packages/fuga"
   ]
 }
