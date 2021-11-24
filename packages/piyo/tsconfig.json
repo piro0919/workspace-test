@@ -1,7 +1,13 @@
 {
   "compilerOptions": {
+    "declaration": true,
+    "declarationMap": true,
     "esModuleInterop": true,
     "jsx": "react",
-    "outDir": "dist"
-  }
+    "outDir": "dist",
+    "sourceMap": true
+  },
+  "include": [
+    "src/index.tsx"
+  ]
 }
