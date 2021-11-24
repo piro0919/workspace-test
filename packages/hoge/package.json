@@ -22,7 +22,7 @@
     "build": "next build",
     "dev": "next dev",
     "lint": "next lint",
-    "prebuild": "cd ../piyo && npm run build",
+    "prebuild": "cd ../piyo && npm run build && cd ../hoge",
     "start": "next start"
   },
   "version": "1.0.0"
