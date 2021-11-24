@@ -2,7 +2,7 @@
   "author": "",
   "dependencies": {
     "next": "12.0.4",
-    "piyo": "../piyo",
+    "piyo": "../piyo/dist/",
     "react": "17.0.2",
     "react-dom": "17.0.2"
   },

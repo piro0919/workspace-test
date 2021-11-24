@@ -11,8 +11,8 @@
   "name": "piyo",
   "private": true,
   "scripts": {
-    "build": "tsc",
-    "build:watch": "tsc --watch"
+    "build": "rm -rf dist && tsc",
+    "build:watch": "rm -rf dist && tsc --watch"
   },
   "types": "dist/index.d.ts",
   "version": "1.0.0"
