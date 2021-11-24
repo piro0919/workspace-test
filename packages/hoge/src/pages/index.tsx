@@ -1,7 +1,9 @@
+import Moge from "components/Moge";
 import type { NextPage } from "next";
+import React from "react";
 
 const Home: NextPage = () => {
-  return <div>hoge</div>;
+  return <Moge />;
 };
 
 export default Home;
