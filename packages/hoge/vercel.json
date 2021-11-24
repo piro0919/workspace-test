@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "destination": "https://workspace-test-hazel.vercel.app/:path*",
+      "source": "/fuga/:path*"
+    }
+  ]
+}
