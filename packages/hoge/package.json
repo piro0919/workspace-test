@@ -23,7 +23,6 @@
     "build": "next build",
     "dev": "next dev",
     "lint": "next lint",
-    "preinstall": "cd ../piyo && npm i && npm run build",
     "start": "next start"
   },
   "version": "1.0.0"
