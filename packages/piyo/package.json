@@ -10,6 +10,11 @@
   "main": "dist/index.js",
   "name": "piyo",
   "private": true,
+  "repository": {
+    "directory": "packages/piyo",
+    "type": "git",
+    "url": "https://github.com/piro0919/workspace-test.git"
+  },
   "scripts": {
     "build": "rm -rf dist && tsc",
     "build:watch": "rm -rf dist && tsc --watch"
